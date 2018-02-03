@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>listName</key>
+		<string>老铁们</string>
+		<key>friends</key>
+		<array>
+			<string>臊子面</string>
+			<string>油泼面</string>
+			<string>兰州拉面</string>
+		</array>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>listName</key>
+		<string>基佬们</string>
+		<key>friends</key>
+		<array>
+			<string>姚明</string>
+			<string>易建联</string>
+		</array>
+	</dict>
+	<dict>
+		<key>isShow</key>
+		<true/>
+		<key>listName</key>
+		<string>太窄的</string>
+		<key>friends</key>
+		<array>
+			<string>马云</string>
+			<string>马化腾</string>
+			<string>李彦宏</string>
+			<string>李开复是啥</string>
+		</array>
+	</dict>
+</array>
+</plist>
